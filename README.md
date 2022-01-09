@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Meng
-- 👀  I’m interested in becoming a data scientist
-- 🌱  I’m currently learning data science at Concordia bootcamp
+- 👀  I’m a Data Science graduate.
+- 🌱  I'm passionate about solving problems using data as a tool.
 - 💞️  I’m looking to collaborate on challenging and interesting projects
 - 📫  You can reach me at mengsi1005@gmail.com
 
